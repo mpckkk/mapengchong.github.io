@@ -12,9 +12,9 @@ title                    : "Ma's Homepage"
 title_separator          : "-"
 name                     : "Pengchong Ma"
 description              : &description "personal description"
-url                      : https://academicpages.github.io/
+url                      : https://mpckkk.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mpckkk.github.io/mapengchong.github.io"
+repository               : "mpckkk/mpckkk.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
