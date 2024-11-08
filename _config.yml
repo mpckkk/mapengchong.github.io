@@ -21,7 +21,7 @@ repository               : "mpckkk.github.io/mapengchong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "dp.png"
+  avatar           : "images/dp.png"
   name             : "Pengchong Ma"
   pronouns         : "He/him"  
   bio              : "PhD students in computer science bioinformatics"
