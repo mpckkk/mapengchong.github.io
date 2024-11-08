@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "dp.png"
   name             : "Pengchong Ma"
-  pronouns         : # example: "He/him"  
+  pronouns         : "He/him"  
   bio              : "PhD students in computer science bioinformatics"
   location         : "Lincoln,NE,USA"
   employer         : "University of Nebraska Lincoln"
