@@ -12,7 +12,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Pengchong Ma"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mpckkk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mpckkk.github.io/mapengchong.github.io"
 
@@ -25,7 +25,7 @@ author:
   name             : "Pengchong Ma"
   pronouns         : # example: "He/him"  
   bio              : "PhD students in computer science bioinformatics"
-  location         : "Earth"
+  location         : "Lincoln, NE， USA"
   employer         : "University of Nebraska Lincoln"
   uri              : # URL
   email            : "pma5@unl.edu" 
