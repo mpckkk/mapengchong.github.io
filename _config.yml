@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : "Pengchong Ma"
 description              : &description "personal description"
 url                      : https://mpckkk.github.io/
-baseurl                  : https://mpckkk.github.io/
+baseurl                  : ""
 repository               : "mpckkk/mpckkk.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
