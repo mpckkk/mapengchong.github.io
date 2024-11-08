@@ -12,7 +12,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Pengchong Ma"
 description              : &description "personal description"
-url                      : "https://academy.github.io" 
+url                      : https://academicpages.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mpckkk.github.io/mapengchong.github.io"
 
