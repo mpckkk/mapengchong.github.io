@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Ma's Homepage"
 title_separator          : "-"
-name                     : &name "Pengchong Ma"
+name                     : "Pengchong Ma"
 description              : &description "personal description"
 url                      : https://academicpages.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   name             : "Pengchong Ma"
   pronouns         : # example: "He/him"  
   bio              : "PhD students in computer science bioinformatics"
-  location         : "Lincoln, NE， USA"
+  location         : "Lincoln,NE,USA"
   employer         : "University of Nebraska Lincoln"
   uri              : # URL
   email            : "pma5@unl.edu" 
